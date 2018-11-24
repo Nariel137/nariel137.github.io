@@ -1,0 +1,1 @@
+header#header{position:absolute;top:0;left:0;right:0;z-index:1000;padding:0 1rem}#header .a{max-width:800px;margin:0 auto}#xheader:after{content:".";clear:both;display:block}#header h1{float:left;display:inline}#header nav{display:inline}#header ul{list-style:none}#header ul li{float:left}#header ul li a{font-size:1.1rem;display:block;padding:0 0.5rem}
